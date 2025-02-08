@@ -17,7 +17,7 @@ public class Hello {
 		for(char cc : map.keySet()) {
 			System.out.println(cc + " -"+ map.get(cc));
 		}
-
+		System.out.println("hjdd");
 	}
 
 }
